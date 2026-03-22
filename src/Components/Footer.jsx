@@ -46,7 +46,7 @@ function Footer() {
 
         {/* Bottom */}
         <div className="footer-bottom text-center">
-          <p>© 2026 TravelX | All Rights Reserved</p>
+          <p>© 2026 TravelX | All Rights Reserved (Gaurav Chaurasiya...)</p>
         </div>
       </div>
 
