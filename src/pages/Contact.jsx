@@ -9,15 +9,13 @@ function Contact() {
         <button className="btn btn-primary">Send</button>
       </form>
       <a
-        href="https://wa.me/919123456789?text=Hello%20I%20want%20to%20order"
-        className="btn btn-success"
+        href="https://wa.me/919329872768?text=Hello%20I%20want%20to%20order"
+        className="btn btn-success mt-3 mb-3 "style={{borderRadius:"7px"}}
         target="_blank"
         rel="noopener noreferrer"
       >
-        Order on WhatsApp
+      Book Now on WhatsApp
       </a>
-
-
     </div>
   )
 }
