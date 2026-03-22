@@ -10,7 +10,7 @@ function Contact() {
       </form>
       <a
         href="https://wa.me/919329872768?text=Hello%20I%20want%20to%20order"
-        className="btn btn-success mt-3 mb-3 "style={{borderRadius:"7px"}}
+        className="btn btn-warning mt-3 mb-3 "style={{borderRadius:"7px"}}
         target="_blank"
         rel="noopener noreferrer"
       >
