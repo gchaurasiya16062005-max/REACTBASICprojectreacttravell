@@ -2,7 +2,7 @@ function Destinations() {
   return (
     <div className="container-fluid p-0">
 
-     
+
       <div
         style={{
           background:
@@ -18,16 +18,16 @@ function Destinations() {
           fontWeight: "bold",
         }}
       >
-        </div>
+      </div>
 
-      
+
       <div className="container" style={{ minHeight: "1000px" }}>
 
         <h2 className="text-center mt-5 mb-4">Explore Top Places</h2>
 
         <div className="row">
 
-         
+
           <div className="col-12 col-md-4 mb-4">
             <div className="card shadow h-100">
               <img
@@ -44,7 +44,7 @@ function Destinations() {
             </div>
           </div>
 
-          
+
           <div className="col-12 col-md-4 mb-4">
             <div className="card shadow h-100">
               <img
@@ -61,7 +61,7 @@ function Destinations() {
             </div>
           </div>
 
-          
+
           <div className="col-12 col-md-4 mb-4">
             <div className="card shadow h-100">
               <img
@@ -80,12 +80,12 @@ function Destinations() {
 
         </div>
 
-        
+
         <h2 className="text-center mt-5 mb-4">More Destinations</h2>
 
         <div className="row">
 
-          
+
           <div className="col-12 col-md-4 mb-4">
             <div className="card shadow h-100">
               <img
@@ -102,7 +102,7 @@ function Destinations() {
             </div>
           </div>
 
-        <div className="col-12 col-md-4 mb-4">
+          <div className="col-12 col-md-4 mb-4">
             <div className="card shadow h-100">
               <img
                 src="https://images.unsplash.com/photo-1473116763249-2faaef81ccda"
@@ -118,7 +118,7 @@ function Destinations() {
             </div>
           </div>
 
-          
+
           <div className="col-12 col-md-4 mb-4">
             <div className="card shadow h-100">
               <img
